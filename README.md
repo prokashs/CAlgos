@@ -4,6 +4,9 @@ Mastering Algorithms with C, Source Code
 README
 Mastering Algorithms with C
 ------------------------------------------------------------------------------
+THIS IS AN OLD REPOSITORY ( DOCUMENT IS OUTDATED ). THE NEW UPDATE SHOULD HAVE
+A READY CLion project, that should be used on any platform that CLion support.
+--prokash
 
 This disk contains all of the code from the book "Mastering Algorithms with C"
 plus several examples illustrating how to use it.  All of the code was written
